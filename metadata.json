@@ -1,0 +1,6 @@
+{
+  "name": "BizPilot AI",
+  "description": "Your AI Worker for Everyday Business - All-in-one productivity SaaS for customer replies, marketing content, leads, follow-ups, and business intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
